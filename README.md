@@ -14,4 +14,4 @@
 ## 📫 Как связаться?
 - Discord: `@questik`
 - Discord server: [Infiland](https://discord.gg/infiland)
-- Discord server IT: [Infiland + IT](https://discord.gg/9EU5E9GBAh))
+- Discord server IT: [Infiland + IT](https://discord.gg/9EU5E9GBAh)
